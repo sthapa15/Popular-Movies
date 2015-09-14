@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+
+    <string name="action_sort_by">Settings</string>
+    <string name="action_sort_by_popularity">Sort by: Most Popular</string>
+    <string name="action_sort_by_rating">Sort by: Highest Rated</string>
+    <string name="action_favorite">Sort by: Favorite</string>
+    <string name="title_activity_details">Movie Details</string>
+    <string name="user_rating">User Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="detail_title">Details</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="action_share">Share</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="action_sort_by_fav">Favorites</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="content_authority">com.example.sukriti.popularmovies</string>
+
+
+</resources>

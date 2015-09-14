@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- replace with apikey from themoviedb.org-->
+<string name="themoviedb_apikey">INSERT API KEY HERE</string>
+</resources>
