@@ -28,11 +28,12 @@ The file is under values resources folder.
 
 Screenshots
 -------------------
-Obtained using Genymotion emulator Galaxy S4
+Obtained using Genymotion emulator Galaxy S4 and Nexus 10 tablet
 
 ![FirstView](https://github.com/sthapa15/images/blob/gh-pages/MovieGridView.PNG) ![SecondViewScroll](https://github.com/sthapa15/images/blob/gh-pages/ScrollMovieGridView.PNG)
 ![SortByOptions](https://github.com/sthapa15/images/blob/gh-pages/SortByOptions.PNG)
 ![MovieDetailDesc](https://github.com/sthapa15/images/blob/gh-pages/MovieDetailDesc.PNG)
 ![MoreMovieDetail](https://github.com/sthapa15/images/blob/gh-pages/ViewMovieDetails.PNG)
 ![FavoriteAdded](https://github.com/sthapa15/images/blob/gh-pages/AddToFavorites.PNG)
+![TabletView](https://github.com/sthapa15/images/blob/gh-pages/TabletView.PNG)
 
