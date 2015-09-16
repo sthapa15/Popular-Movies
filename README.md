@@ -2,10 +2,7 @@ Popular Movies
 ==================
 
 Popular Movies is an android application that displays popular and highest rated movies. It also allows a
-user to keep a list of favorite movies locally using a content provider. 
-
-This app was created as part of the Android Developer Nanodegree program and recieved an "Exceeds Specifications"
-rating by the Udacity code reviewer. It is also optimized for both phone and tablet experience using a two pane display.
+user to keep a list of favorite movies locally using a content provider. It is also optimized for both phone and tablet experience using a two pane display.
 
 Features
 ------------------
